@@ -4,11 +4,7 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost/CourseLibrary.API",
-      "sslPort": 0,
-      "iisExpress": {
-        "applicationUrl": "http://localhost:51044",
-        "sslPort": 0
-      }
+      "sslPort": 0
     }
   },
   "$schema": "http://json.schemastore.org/launchsettings.json",
